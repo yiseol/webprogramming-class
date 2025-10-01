@@ -1,0 +1,20 @@
+P {
+    color: #0000ff;
+    font-size: 14pt;
+}
+
+h2 {
+    color: #00ff00;
+    font-size: 26pt;
+}
+
+#article-content {
+    color: #ff0000;
+    font-size: 18pt;
+    margin: 0px 200x 0px 0x;
+    border: 2px solid #ff00ff;
+
+    .highlight {
+        background-color: yellow;
+    }
+}
